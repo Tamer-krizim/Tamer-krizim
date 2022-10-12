@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamer-krizim&show_icons=true&locale=en" alt="tamer-krizim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamer-krizim&" alt="tamer-krizim" /></p>
+
+[![MasterHead](./comp.jpg)]()
