@@ -1,7 +1,7 @@
 [![MasterHead](./banner.png)]()
 <h1 align="center">Hi 👋, I'm Tamer Krizim</h1>
 <h3 align="center">High level experience in web design and Front-end & Back-end development knowledge, producing quality work.</h3>
-<img align="right" alt="Coding" width="400" src="./profile-img.jpg">
+<img align="right" alt="Coding" width="400" src="./mind.png">
 
 
 - 🔭 I’m currently working on **Web Application**
