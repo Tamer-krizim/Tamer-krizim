@@ -1,6 +1,7 @@
-[![MasterHead](./banner)]()
+[![MasterHead](./banner.png)]()
 <h1 align="center">Hi 👋, I'm Tamer Krizim</h1>
 <h3 align="center">High level experience in web design and Front-end & Back-end development knowledge, producing quality work.</h3>
+(img align="right" alt="Coding" width="400" src="./profile-img.png")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamer-krizim&label=Profile%20views&color=0e75b6&style=flat" alt="tamer-krizim" /> </p>
 
