@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **takrizim@gmail.com**
 
-- ⚡ Fun fact **Innovator and Entrepreneur**
+- ⚡ fact **Innovator and Entrepreneur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
