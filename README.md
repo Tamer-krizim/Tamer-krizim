@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web Application**
 
-- 🌱 I’m currently learning **React JS, React native and Vue JS**
+- 🌱 I’m currently learning **Quantum Computing -QC-**
 
 - 👯 I’m looking to collaborate on **large scale company like, Google**
 
