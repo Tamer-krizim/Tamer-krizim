@@ -1,7 +1,7 @@
-[![MasterHead](./banner.png)]()
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQGiplamSV1ahg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732723547745?e=1738195200&v=beta&t=YwBcXWPAXOxta5AzDasc6Q9JZlKwQSR6nopyIUHGHZM)]()
 <h1 align="center">Hi 👋, I'm Tamer Krizim</h1>
 <h3 align="center">High level experience in web design and Front-end & Back-end development knowledge, producing quality work.</h3>
-<img align="right" alt="Coding" width="400" src="./mind.png">
+<img align="right" alt="Coding" width="400" src="https://tamer-krizim.vercel.app/assets/img/home%20img/mind.png">
 
 
 - 🔭 I’m currently working on **Web Application**
