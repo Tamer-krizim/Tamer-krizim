@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQGiplamSV1ahg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732723547745?e=1738195200&v=beta&t=YwBcXWPAXOxta5AzDasc6Q9JZlKwQSR6nopyIUHGHZM)]()
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFAdT8A07CglA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733330937068?e=1738800000&v=beta&t=I3aKRfr71CsKe82O4uSwseCImhqnLynci-ojM4ks_eI)]()
 <h1 align="center">Hi 👋, I'm Tamer Krizim</h1>
 <h3 align="center">High level experience in web design and Front-end & Back-end development knowledge, producing quality work.</h3>
 <img align="right" alt="Coding" width="400" src="https://tamer-krizim.vercel.app/assets/img/home%20img/mind.png">
