@@ -12,11 +12,11 @@
 
 - 🤝 I’m looking for help with **Building Full Web Applications**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tamer-krizim](https://github.com/Tamer-krizim)
+- 👨‍💻 All of my projects are available at [https://takrizim.com](https://takrizim.com)
 
 - 📝 I regularly write articles on [https://www.instagram.com/tamer_krizim/](https://www.instagram.com/tamer_krizim/)
 
-- 💬 Ask me about **React, NodeJS**
+- 💬 Ask me about **Nextjs, NodeJS**
 
 - 📫 How to reach me **takrizim@gmail.com**
 
